@@ -43,3 +43,15 @@ Our code is developed based on the following codebases, thanks for sharing
 * [CV-VAE: A Compatible Video VAE for Latent Generative Video Models](https://github.com/AILab-CVC/CV-VAE)
 * [MM Action2](https://github.com/open-mmlab/mmaction2)
 * [Stability AI](https://huggingface.co/stabilityai/sd-vae-ft-mse/tree/main)
+
+## Reference 
+If you find our code useful for your research, please consider citing our paper.
+```
+@inproceedings{li2025latent,
+  title={Latent Video Dataset Distillation},
+  author={Li, Ning and Liu, Antai Andy and Zhang, Jingran and Cui, Justin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Workshop},
+  year={2025}
+}
+```
+
