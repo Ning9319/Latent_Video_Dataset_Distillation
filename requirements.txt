@@ -1,0 +1,15 @@
+diffusers
+torch
+torchvision
+transformers
+accelerate
+optimum-quanto
+safetensors
+numpy
+scipy
+wandb
+einops
+scikit-learn
+decord
+tensorly
+dppy
