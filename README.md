@@ -1,11 +1,11 @@
 # Latent Video Dataset Distillation
 
-Hello! Thanks for checking out our [repo](https://github.com/Ning9319/Latent_Video_Dataset_Distillation)! This is official implementation of Latent Video Dataset Distillation.
+Hello! Thanks for checking out our [repo](https://github.com/liningresearch/Latent_Video_Dataset_Distillation)! This is official implementation of Latent Video Dataset Distillation.
 
 ## Setup
 1. Clone our repo by following the command below
 ```
-git clone https://github.com/Ning9319/Latent_Video_Dataset_Distillation.git
+git clone https://github.com/liningresearch/Latent_Video_Dataset_Distillation.git
 cd Latent_Video_Dataset_Distillation
 ```
 
